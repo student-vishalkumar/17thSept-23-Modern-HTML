@@ -1,0 +1,15 @@
+What are HTML Entities?
+ A text fragment (or "string") that starts with an ampersand (&) and ends with a semicolon (;) is known as an HTML entity. Entities are widely used to show unseen characters, such as non-breaking spaces and reserved characters, which would be read as HTML code. Additionally, you may substitute them for other characters that are challenging to enter on a regular keyboard.
+
+Five commonly used html entities-
+
+1) &gt - greate than
+
+2) &nbsp - non-breaking space
+
+3) &it - less than
+
+4) &amp - ampersand
+
+5) &quot - double quotation mark
+ 

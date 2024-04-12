@@ -1,0 +1,29 @@
+-> Accessibility in context of web development -
+
+Web accessibility is a term that refers to the design and development of websites and web technologies so that people with disabilities can use them. Accessible websites remove barriers and give people with disabilities the ability to contribute to the Internet and access important services. An accessible site is perceivable, understandable, interactive, and navigable for everyone.
+
+Web accessibility addresses any condition that might affect a user’s ability to use or access the Internet, including visual, auditory, neurological, physical, speech, and cognitive impairments
+
+-> Accessibility is important of Businesses , individuals and Society
+
+The Web is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. It is essential that the Web be accessible in order to provide equal access and equal opportunity to people with diverse abilities. Access to information and communications technologies, including the Web, is defined as a basic human right in the United Nations Convention on the Rights of Persons with Disabilities 
+
+The Web offers the possibility of unprecedented access to information and interaction for many people with disabilities. That is, the accessibility barriers to print, audio, and visual media can be much more easily overcome through web technologies.
+
+Accessibility supports social inclusion for people with disabilities as well as others, such as:
+
+  older people
+  people in rural areas
+  people in developing countries
+There is also a strong business case for accessibility.
+
+-> Benefits of Web Accessibility
+
+Increased website traffic. 
+Reduced risk of legal complications. 
+More customers. 
+Helps develop an innovative business mindset. 
+Improved website SEO. 
+Improves your brand reputation. 
+Reduced page loading times. 
+Helps you reach a broader audience.
